@@ -4,7 +4,7 @@
 
 ---
 
-#### :bar_chart: [Monthly coding time](https://github.com/CJWbiu/wakapi)
+#### :bar_chart: [Weekly coding time](https://github.com/CJWbiu/wakapi)
 
 <!--START_SECTION:waka-->
 ```text

@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: CJWbiu/waka-readme@30days
+      - uses: CJWbiu/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
