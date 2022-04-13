@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CJWbiu/CJWbiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CJWbiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJWbiu&theme=gruvbox)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :bar_chart: [Monthly coding time](https://github.com/CJWbiu/wakapi)
+
+<!--START_SECTION:waka-->
+```text
+Vue          41 hrs 4 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.61 % 
+Markdown     26 hrs 44 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.48 % 
+TypeScript   12 hrs 15 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.22 % 
+C++          9 hrs 31 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.72 % 
+JSON         3 hrs 33 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.25 % 
+```
+<!--END_SECTION:waka-->
